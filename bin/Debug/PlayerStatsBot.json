@@ -1,0 +1,7 @@
+{
+  "BotPrefix": "!",
+  "BotToken": "",
+  "SyncFile": "DiscordSteamSyncs.yml",
+  "StatsFile": "/home/scp/.config/Plugins/PlayerStats",
+  "StaffID": 0
+}
